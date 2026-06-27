@@ -53,16 +53,6 @@ images/preview.png
  ┗ 📜 README.md
 
 ---
-## 📸 Screenshots
-
-<p align="center">
-  <img src="<img width="1898" height="893" alt="Screenshot 2026-06-27 144527" src="https://github.com/user-attachments/assets/6bb724c3-8519-4ca9-98ed-be6117836952" />" width="32%" alt="Home">
-  <img src="images/services.png" width="32%" alt="Services">
-  <img src="images/contact.png" width="32%" alt="Contact">
-</p>
-
-
-
 
 🌐 Live Demo
 
