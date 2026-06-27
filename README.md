@@ -56,7 +56,7 @@ images/preview.png
 
 🌐 Live Demo
 
-Coming Soon...
+https://sajadmidev.github.io/MyFirstProject/
 
 ---
 
