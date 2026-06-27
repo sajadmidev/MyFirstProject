@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/sajad-miri-7a925b419?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -63,9 +63,9 @@ https://sajadmidev.github.io/MyFirstProject/
 📫 Contact Me
 
 💼 LinkedIn:
-https://linkedin.com/in/YOUR-LINKEDIN
+https://www.linkedin.com/in/sajad-miri-7a925b419?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 📷 Instagram:
-https://instagram.com/YOUR-INSTAGRAM
+https://www.instagram.com/sajjadmi_?igsh=MWl4MXoxcGF5ZXJocQ==
 
 ⭐ If you like this project, don't forget to star the repository!
